@@ -1,3 +1,6 @@
+#用logistic回归实现二分类器
+#交叉熵损失函数
+#SDG优化
 import numpy as np 
 from functools import reduce
 import math
